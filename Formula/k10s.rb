@@ -13,23 +13,23 @@ class K10s < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/p10node/k10s/releases/download/v0.1.9/k10s_v0.1.9_darwin_arm64.tar.gz"
-      sha256 "1dd0eda2da61ba1e874565389c8c18278d501670eeca3169d7bb090299ae7e5f"
+      url "https://github.com/p10node/k10s/releases/download/v0.1.10/k10s_v0.1.10_darwin_arm64.tar.gz"
+      sha256 "d687209dead9253e5a886d2a3e9ecb8ebad8abdf70b214f7ae2a897e5ce2170b"
     end
     on_intel do
-      url "https://github.com/p10node/k10s/releases/download/v0.1.9/k10s_v0.1.9_darwin_amd64.tar.gz"
-      sha256 "b0f7b0dbde3a35330c4a5de411737fab37c0dbff0c9e6a8e7cef8bc61e67708e"
+      url "https://github.com/p10node/k10s/releases/download/v0.1.10/k10s_v0.1.10_darwin_amd64.tar.gz"
+      sha256 "c6130d9ef73bd092d1e2507ad0968473d154dc0f30b18534a23fd97427f1f359"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/p10node/k10s/releases/download/v0.1.9/k10s_v0.1.9_linux_arm64.tar.gz"
-      sha256 "9c0541f315f90717269d0e0fdd554b143b12d5f9b50b8b0d77017cc432cdd161"
+      url "https://github.com/p10node/k10s/releases/download/v0.1.10/k10s_v0.1.10_linux_arm64.tar.gz"
+      sha256 "fb83a5f310a647421dc3720828ad711b096577d261213862b6cd25cb2971de2b"
     end
     on_intel do
-      url "https://github.com/p10node/k10s/releases/download/v0.1.9/k10s_v0.1.9_linux_amd64.tar.gz"
-      sha256 "55b4d4b1291838d80e171bfa127ea3a344fafde69ce24b5327d70b6ae1ff4dc9"
+      url "https://github.com/p10node/k10s/releases/download/v0.1.10/k10s_v0.1.10_linux_amd64.tar.gz"
+      sha256 "c1e62eb672db3c8ffcb0142e36ac8ca5ca6c57baaf5104a2a6933361c0acd868"
     end
   end
 
