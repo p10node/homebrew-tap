@@ -1,8 +1,8 @@
 class Intow < Formula
   desc "Keep Claude Code history and memory attached to folders you move or rename"
   homepage "https://github.com/p10node/intow"
-  url "https://github.com/p10node/intow/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d30e53ba39cba02a4754bf186ef292a08fe872666d4f83e7d1219fb53c88e45e"
+  url "https://github.com/p10node/intow/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "09e7f11cffebe8c6df6bf2c981d879b9b16a5eca2227f2e7918565d787d71f0e"
   license "MIT"
 
   depends_on "go" => :build
